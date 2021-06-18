@@ -7,6 +7,8 @@ El presente proyecto tiene la finalidad de hacer seguimiento y poner en práctiv
 
 #### Ejecutar Proyecto
 
+### Activar entorno de ejecución
+
     > $env:FLASK_APP = "flaskr"
     > $env:FLASK_ENV = "development"
     > flask run
